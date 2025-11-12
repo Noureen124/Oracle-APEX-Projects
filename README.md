@@ -20,14 +20,27 @@ It serves as both a **learning log** and a **portfolio** for potential collabora
 ---
 
 ### 🧰 Tech Stack
+
+**Backend & Database**  
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
-![Oracle APEX](https://img.shields.io/badge/Oracle%20APEX-red?logo=oracle&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL/SQL-blue)
 ![OML4SQL](https://img.shields.io/badge/OML4SQL-orange)
+![Oracle APEX](https://img.shields.io/badge/Oracle%20APEX-red?logo=oracle&logoColor=white)
+
+**APIs & Integration**  
 ![ORDS](https://img.shields.io/badge/ORDS-green)
+![REST API](https://img.shields.io/badge/REST%20API-009688?logo=rest&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+
+**Frontend**  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+**AI & ML**  
+![OML4SQL](https://img.shields.io/badge/Oracle%20Machine%20Learning-orange)
+![AI](https://img.shields.io/badge/AI%20Integration-purple)
 
 ---
 
