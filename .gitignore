@@ -1,0 +1,23 @@
+# Node / JS
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Oracle APEX exports
+*.sql
+*.xml
+*.app
+
+# Environment / Credentials
+.env
+*.key
+*.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build / temp files
+dist/
+temp/
+out/
