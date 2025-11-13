@@ -1,9 +1,7 @@
 
----
 
-### 💼 **02-CRM-Analytics/Sales-Prediction/README.md**
 
-```markdown
+
 # 💼 Sales Prediction (CRM)
 
 ## 📖 Description
